@@ -3,4 +3,4 @@ This repository allows you to load sound files and extract embeddings through VG
 
 [Link](http://colab.research.google.com/github/satvik94/Embeddings-from-VGGish/blob/master/VGGish_Embeddings_extraction.ipynb) to colab.
 
-The model is loaded based on the directions at [link](http://github.com/tensorflow/models/tree/master/research/audioset/vggish).
+The VGGish model is loaded based on the directions at [link](http://github.com/tensorflow/models/tree/master/research/audioset/vggish).
